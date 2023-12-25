@@ -15,6 +15,13 @@ Contact
 ======
 Email: didi\_zhu@zju.edu.cn / one.invisible.numb@gmail.com
 
+Research Interest
+======
+
+- #### Generalization of Multi-modal Large Language Models
+- #### Generalization of Vision-Language Models 
+- #### Unsupervised Domain Adaptation 
+
 Publications
 ======
 
