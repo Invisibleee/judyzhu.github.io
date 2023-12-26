@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Didi Zhu / Personal Homepage"
+title                    : "Didi Zhu"
 title_separator          : "-"
 name                     : &name "Didi Zhu"
 description              : &description "Ph.D. Student, Zhejiang University"
