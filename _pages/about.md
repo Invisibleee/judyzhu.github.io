@@ -20,7 +20,20 @@ Research Interest
 
 - Robustness of Multi-modal Large Language Models
 - Generalization of Vision-Language Models
-- Unsupervised Domain Adaptation 
+- Unsupervised Domain Adaptation
+
+Recent News
+======
+
+- 08 / 2023: One paper about prompt learning is online.
+- 07 / 2023: One paper has been accepted to ICCV 2023.
+- 07 / 2023: One paper has been accepted to ACM Multimedia 2023.
+- 05 / 2023: One paper has been accepted to KDD 2023.
+- 11 / 2022: One paper has been accepted to IEEE Transactions on Big Data.
+- 10 / 2022: I have passed the Mid-term Assessment of Doctoral Program.
+- 10 / 2022: I am presented with Outstanding Postgraduate Student Award on 2021-2022 by Zhejiang University.
+- 05 / 2022: One paper has been accepted to IJCAI 2021 FL Workshop.
+
 
 Publications
 ======
