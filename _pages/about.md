@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth-year direct Ph.D. student at the College of Computer Science and Technology, Zhejiang University. My research primarily focuses on the generalizability of multimodal large language models and vision-language models, with a prior concentration on unsupervised domain adaptation and domain generalization. Before joining Zhejiang University, I earned my undergraduate degree at Beijing University of Chemical Technology. Currently, I am very fortunate to be advised by [Prof. Chao Wu](https://wuchaozju.github.io/) and [Prof. Kun Kuang](https://kunkuang.github.io/).
+I am currently a fourth-year direct Ph.D. student at the College of Computer Science and Technology, Zhejiang University. My research primarily focuses on the generalizability of multimodal large language models and vision-language models, with a prior concentration on unsupervised domain adaptation and domain generalization. Before joining Zhejiang University, I earned my undergraduate degree at Beijing University of Chemical Technology. Currently, I am very fortunate to be advised by [Prof. Chao Wu](https://wuchaozju.github.io/).
 
 
 Contact
 ======
-Email: didi\_zhu@zju.edu.cn / one.invisible.numb@gmail.com
+Email: didi\_zhu at zju dot edu dot cn / one dot invisible dot numb at gmail dot com
 
 Research Interest
 ======
